@@ -1,0 +1,4 @@
+[submodule "seq2seq/tools/utils"]
+	path = seq2seq/tools/utils
+	url = https://github.com/eladhoffer/utils.pytorch
+	branch = master
